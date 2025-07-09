@@ -6,7 +6,7 @@
 
 ## 🌐 Features
 
-- 🔎 **URL Crawling Dashboard**
+-  **URL Crawling Dashboard**
   - Enter any URL to crawl
   - Displays metadata like:
     - HTML version
@@ -15,28 +15,28 @@
     - Login form detection
     - Crawl status
 
-- 📊 **Investor Detail Page**
+-   **Investor Detail Page**
   - Click any crawled URL to view a breakdown:
     - Pie chart for link distribution
     - Full result summary
 
-- ✅ **Bulk Actions**
+-   **Bulk Actions**
   - Select multiple URLs to:
-    - 🔁 Re-crawl
-    - 🗑️ Delete
+    -  Re-crawl
+    - ️ Delete
 
-- 🔍 **Global Search + Column Filters**
+-   **Global Search + Column Filters**
   - Search by title or URL (fuzzy matching)
   - Filter by status, login presence, etc.
 
-- 🌈 **Beautiful UI**
+-   **Beautiful UI**
   - Fully responsive
   - Clear button states, loading spinners, visual feedback
   - Easy to extend for production use
 
 ---
 
-## 🛠️ Tech Stack
+##  ️ Tech Stack
 
 | Layer       | Tech               |
 |-------------|--------------------|
@@ -48,9 +48,9 @@
 
 ---
 
-## 🧪 How to Run Locally
+##   How to Run Locally
 
-### 🔧 Backend (Go + Gin)
+###   Backend (Go + Gin)
 
 1. Navigate to the backend folder:
 
